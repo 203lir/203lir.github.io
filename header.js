@@ -1,3 +1,4 @@
+document.write("
 <div class="navbar">
 	<a href="/">Home</a>
 	<div class="dropdown">
@@ -15,3 +16,4 @@
 	more useful text will go here later, as well as an actual image
 	</h2>
 </div>
+")
