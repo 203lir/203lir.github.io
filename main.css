@@ -89,4 +89,5 @@
 
 .dropdown:hover {
 	background-color:#505050;
+	cursor:pointer;
 }
