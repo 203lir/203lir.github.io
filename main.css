@@ -20,7 +20,6 @@
 .dropdown {
 	float:left;
 	overflow:hidden;
-	cursor:pointer;
 }
 
 .dropdown .dropbtn {
@@ -32,6 +31,7 @@
 	background-color:inherit;
 	font-family:inherit;
 	margin:0;
+	cursor:pointer;
 }
 
 .dropdown-content {
