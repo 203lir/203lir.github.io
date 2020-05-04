@@ -13,6 +13,10 @@
 	text-decoration:none;
 }
 
+.navbar a:hover {
+	background-color:#404040;
+}
+
 .dropdown {
 	float:left;
 	overflow:hidden;
@@ -81,9 +85,5 @@
 	position:relative;
 	left:1px;
 	bottom:2px;
-}
-
-.navbar a:hover {
-	background-color:#404040;
 }
 
