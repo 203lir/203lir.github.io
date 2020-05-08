@@ -1,23 +1,26 @@
 ﻿@font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
-    font-weight: bold;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
-    font-style: italic, oblique;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
-    font-weight: bold;
-    font-style: italic, oblique;
-  }
+    font-family:ComputerModern;
+    src:url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+}
+
+@font-face {
+    font-family:ComputerModern;
+    src:url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
+    font-weight:bold;
+}
+
+@font-face {
+    font-family:ComputerModern;
+    src:url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
+    font-style:italic, oblique;
+}
+
+@font-face {
+    font-family:ComputerModern;
+    src:url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
+    font-weight:bold;
+    font-style:italic, oblique;
+}
 
 .navbar {
 	overflow:hidden;
@@ -87,14 +90,14 @@
 }
 
 .header h2 {
-	font-family:"Computer Modern", sans-serif;
+	font-family:ComputerModern, serif;
 	color:white;
 	padding-left:25px;
 	padding-top:175px;
 }
 
 .content {
-	font-family:"Computer Modern", sans-serif;
+	font-family:ComputerModern, serif;
 }
 
 .arrow-down {
