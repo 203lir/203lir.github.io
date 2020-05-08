@@ -1,25 +1,29 @@
 ﻿@font-face {
     font-family:ComputerModern;
-    src:url('/fonts/standard.ttf');
+    src:url('/fonts/bolditalic.ttf');
+    font-weight:bold;
+    font-style:italic, oblique;
+}
+
+@font-face {
+    font-family:ComputerModern;
+    src:url('/fonts/italic.ttf');
+    font-weight:normal;
+    font-style:italic, oblique;
 }
 
 @font-face {
     font-family:ComputerModern;
     src:url('/fonts/bold.ttf');
     font-weight:bold;
+    font-style:normal;
 }
 
 @font-face {
     font-family:ComputerModern;
-    src:url('/fonts/italic.ttf');
-    font-style:italic, oblique;
-}
-
-@font-face {
-    font-family:ComputerModern;
-    src:url('/fonts/bolditalic.ttf');
-    font-weight:bold;
-    font-style:italic, oblique;
+    src:url('/fonts/standard.ttf');
+    font-weight:normal;
+    font-style:normal;
 }
 
 .navbar {
