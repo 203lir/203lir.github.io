@@ -90,14 +90,14 @@
 }
 
 .header h2 {
-	font-family:ComputerModern, serif;
+	font-family:ComputerModern, monospace;
 	color:white;
 	padding-left:25px;
 	padding-top:175px;
 }
 
 .content {
-	font-family:ComputerModern, serif;
+	font-family:ComputerModern, monospace;
 }
 
 .arrow-down {
