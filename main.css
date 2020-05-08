@@ -94,10 +94,12 @@
 	color:white;
 	padding-left:25px;
 	padding-top:175px;
+	font-style:normal;
 }
 
 .content {
 	font-family:ComputerModern, serif;
+	font-style:normal;
 }
 
 .arrow-down {
