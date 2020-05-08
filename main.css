@@ -11,13 +11,13 @@
 
 @font-face {
     font-family:ComputerModern;
-    src:url('/fonts/standard.ttf');
+    src:url('/fonts/italic.ttf');
     font-style:italic, oblique;
 }
 
 @font-face {
     font-family:ComputerModern;
-    src:url('/fonts/bold.ttf');
+    src:url('/fonts/bolditalic.ttf');
     font-weight:bold;
     font-style:italic, oblique;
 }
@@ -90,14 +90,14 @@
 }
 
 .header h2 {
-	font-family:ComputerModern, monospace;
+	font-family:ComputerModern, serif;
 	color:white;
 	padding-left:25px;
 	padding-top:175px;
 }
 
 .content {
-	font-family:ComputerModern, monospace;
+	font-family:ComputerModern, serif;
 }
 
 .arrow-down {
