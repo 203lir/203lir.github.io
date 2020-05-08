@@ -17,7 +17,7 @@
 
 @font-face {
     font-family:ComputerModern;
-    src:url('/fonts/bolditalic.ttf');
+    src:url('/fonts/bold.ttf');
     font-weight:bold;
     font-style:italic, oblique;
 }
