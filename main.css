@@ -129,6 +129,7 @@
 	width:50%;
 }
 
-.centered-text  {
+.figurelabel  {
 	text-align:center;
+	font-style:italic;
 }
