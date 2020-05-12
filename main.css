@@ -91,7 +91,7 @@
 }
 
 .header {
-	background-image:url('headerbackground.jpeg');
+	background-image:url('/images/headerbackground.jpeg');
 	height:296px;
 }
 
@@ -134,4 +134,8 @@
 .figurelabel  {
 	text-align:center;
 	font-style:italic;
+}
+
+.largeimagelink {
+	width:200px;
 }
