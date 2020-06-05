@@ -90,7 +90,15 @@
 	display:block;
 }
 
-.header {
+.webp .header {
+	background-image:url('/images/headerbackground.webp');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color:gray;
+	height:563px;
+}
+
+.no-webp .header {
 	background-image:url('/images/headerbackground.jpeg');
 	background-repeat:no-repeat;
 	background-position:center;
