@@ -92,6 +92,10 @@
 
 .header {
 	background-image:url('/images/headerbackground.jpeg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-color:gray;
 	height:563px;
 }
 
