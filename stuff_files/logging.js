@@ -1,1 +1,0 @@
-function lsSubmit(op) {var op = !op ? 0 : op;if(op) {$('lsform').cookietime.value = 2592000;}showWindow('login', 'member.php?mod=logging&action=login' + (op ? '&cookietime=1' : ''));return false;}function errorhandle_ls(str, param) {if(!param['type']) {showError(str);}}
